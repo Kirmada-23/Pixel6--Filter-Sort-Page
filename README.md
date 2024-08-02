@@ -1,23 +1,8 @@
+# React + Vite
 
-# Pixel6--Filter-Sort-Page
-React Web App: A web application that loads data from an API and features sorting, filtering, and pagination using custom React hooks.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-# Web App for Data Management
+Currently, two official plugins are available:
 
-# This web application, built with React, showcases advanced data handling capabilities including sorting, filtering, and pagination. Key features include:
-
-#Data Loading: Fetches data from an API and displays it in a user-friendly format.
-# Custom Hooks: Utilizes custom React hooks for efficient state management and reusable logic:
-`useLoadData` for loading and managing data.
-
-`useSort` for sorting data based on user selection.
-
-`useFilte`r for filtering data by various criteria.
-
-`usePagination` for managing pagination and navigating through pages.
-
-#User Interface: Includes a responsive design with sorting icons, filter options, and pagination controls.
-
-#Error Handling: Displays appropriate messages for loading errors and empty states.
-
-#Explore the project to see how React hooks can simplify complex data operations and enhance user experience.
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
